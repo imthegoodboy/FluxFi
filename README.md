@@ -268,28 +268,28 @@ All transactions on-chain & verifiable ✅
 ## 🚀 Getting Started
  
 
-### 2. Connect Your Wallet
+### 1. Connect Your Wallet
 ```
 Click "Connect Wallet"
 Select: MetaMask, WalletConnect, or Coinbase Wallet
 Approve connection
 ```
 
-### 3. Sign In
+### 2. Sign In
 ```
 Email: your@email.com
 Password: Create secure password
 Wallet: Already connected
 ```
 
-### 4. Activate Yield
+### 3. Activate Yield
 ```
 Dashboard shows: "0.5 BTC - Idle"
 Suggested APY: 5.2%
 Click: "Activate Yield"
 ```
 
-### 5. Confirm and Wait
+### 4. Confirm and Wait
 ```
 Review swap details
 Confirm transaction
