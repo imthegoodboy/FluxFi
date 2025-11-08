@@ -449,7 +449,7 @@ Result: Offer customers passive income on idle balances
 - AI may be rebalancing to better vault
 - Contact support via chatbot
 
-## 🚀 Roadmap
+ 
  
  
  
