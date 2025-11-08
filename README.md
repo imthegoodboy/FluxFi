@@ -517,7 +517,5 @@ Code is available under MIT License.
 | Link | Purpose |
 |------|---------|
 | 🌐 [Website](https://fluxfi.app) | Main platform |
-| 📱 [Dashboard](https://fluxfi.app/app) | User dashboard |
-| 
-
+ 
  
