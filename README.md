@@ -476,11 +476,6 @@ Result: Offer customers passive income on idle balances
 - [FAQ](https://fluxfi.app/help#faq)
 - [API Documentation](https://docs.fluxfi.app/api)
 
-### External Links
-- [Polygon Network](https://polygon.technology)
-- [SideShift](https://sideshift.ai)
-- [Aave Protocol](https://aave.com)
-- [Yearn Finance](https://yearn.fi)
  
  
 
