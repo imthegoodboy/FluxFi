@@ -506,6 +506,5 @@ Code is available under MIT License.
 
 ---
 
-**FluxFi: Turn Your Idle Crypto Into Automatic Income** 🚀
  
  
