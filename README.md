@@ -1,7 +1,6 @@
 # FluxFi - AI-Powered Cross-Chain Yield Router
 
-> **Transform Your Idle Crypto Into Automatic Passive Income**
-
+ 
 FluxFi is a revolutionary AI-powered platform that automatically routes your idle cryptocurrency assets from any blockchain into the highest-yielding DeFi vaults on Polygon. Earn passive income 24/7 with zero manual management.
 
 ![FluxFi Banner](https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=1200)
