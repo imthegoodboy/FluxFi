@@ -469,8 +469,7 @@ Result: Offer customers passive income on idle balances
 - 🔜 Governance token ($FLX)
 - 🔜 DAO governance
 
-## 📚 Resources
-
+ 
  
  
 
