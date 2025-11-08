@@ -487,18 +487,6 @@ Result: Offer customers passive income on idle balances
 - [Twitter](https://twitter.com/fluxfi)
 - [GitHub](https://github.com/fluxfi)
 
-## 🤝 Support
-
-### Need Help?
-1. **Chat**: Use the AI chatbot (bottom right)
-2. **Email**: support@fluxfi.app
-3. **Help Center**: [https://fluxfi.app/help](https://fluxfi.app/help)
-4. **Discord**: [Join our community](https://discord.gg/fluxfi)
-
-### Report Issues
-- Found a bug? Report it on [GitHub Issues](https://github.com/fluxfi/issues)
-- Security concern? Email security@fluxfi.app
-
  
 
 **FluxFi: Turn Your Idle Crypto Into Automatic Income** 🚀
