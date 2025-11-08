@@ -514,6 +514,4 @@ Code is available under MIT License.
 
 ## Quick Links
 
-| Link | Purpose |
-|------|---------|
  
