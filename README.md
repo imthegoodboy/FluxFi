@@ -499,12 +499,8 @@ Result: Offer customers passive income on idle balances
 - Found a bug? Report it on [GitHub Issues](https://github.com/fluxfi/issues)
 - Security concern? Email security@fluxfi.app
 
-## 📄 License
+ 
 
-FluxFi is built on open protocols and audited smart contracts.
-Code is available under MIT License.
-
----
-
+**FluxFi: Turn Your Idle Crypto Into Automatic Income** 🚀
  
  
