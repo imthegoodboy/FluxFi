@@ -450,25 +450,7 @@ Result: Offer customers passive income on idle balances
 - Contact support via chatbot
 
 ## 🚀 Roadmap
-
-### Phase 1 (Live)
-- ✅ Multi-asset support (BTC, ETH, SOL, MATIC, USDC)
-- ✅ Polygon vault integration
-- ✅ AI yield optimization
-- ✅ Dashboard & portfolio tracking
-
-### Phase 2 (Q4 2024)
-- 🔜 More DeFi protocols (Curve, Aave v3)
-- 🔜 Mobile app (iOS/Android)
-- 🔜 Portfolio rebalancing strategies
-- 🔜 API for integrations
-
-### Phase 3 (2025)
-- 🔜 Multi-chain vaults (Ethereum, Arbitrum, Optimism)
-- 🔜 Advanced AI strategies (ML models)
-- 🔜 Governance token ($FLX)
-- 🔜 DAO governance
-
+ 
  
  
  
