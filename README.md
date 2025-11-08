@@ -297,7 +297,7 @@ Wait 2-5 minutes
 Done! Earning starts immediately
 ```
 
-### 6. Monitor Earnings
+### 5. Monitor Earnings
 ```
 Dashboard shows:
 - Deposit amount
