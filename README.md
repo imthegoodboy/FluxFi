@@ -325,12 +325,7 @@ Dashboard shows:
 - **Auto-Rebalancing**: Moves funds for optimal returns
 - **Risk Assessment**: Flags risky or unstable vaults
 - **Smart Allocation**: Recommends best vault for your asset
-
-### Support
-- **AI Chatbot**: 24/7 instant answers
-- **Help Center**: FAQs and guides
-- **Documentation**: Technical and conceptual explanations
-
+ 
 ## 🤖 AI Optimization Engine
 
 ### How It Works
