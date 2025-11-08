@@ -266,10 +266,7 @@ All transactions on-chain & verifiable ✅
    - Mitigation: Only rebalances for >1% APY difference
 
 ## 🚀 Getting Started
-
-### 1. Visit FluxFi
-```
- ```
+ 
 
 ### 2. Connect Your Wallet
 ```
