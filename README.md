@@ -471,11 +471,6 @@ Result: Offer customers passive income on idle balances
 
 ## 📚 Resources
 
-### Documentation
-- [How to Get Started](https://fluxfi.app/help)
-- [FAQ](https://fluxfi.app/help#faq)
-- [API Documentation](https://docs.fluxfi.app/api)
-
  
  
 
