@@ -509,7 +509,5 @@ Code is available under MIT License.
 **FluxFi: Turn Your Idle Crypto Into Automatic Income** 🚀
 
 *Built with Polygon • Powered by SideShift • Secured by Aave & Yearn*
-
----
-
+ 
  
