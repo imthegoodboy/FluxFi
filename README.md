@@ -269,8 +269,7 @@ All transactions on-chain & verifiable ✅
 
 ### 1. Visit FluxFi
 ```
-Go to: https://fluxfi.app
-```
+ ```
 
 ### 2. Connect Your Wallet
 ```
