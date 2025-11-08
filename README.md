@@ -481,12 +481,7 @@ Result: Offer customers passive income on idle balances
 - [SideShift](https://sideshift.ai)
 - [Aave Protocol](https://aave.com)
 - [Yearn Finance](https://yearn.fi)
-
-### Community
-- [Discord](https://discord.gg/fluxfi)
-- [Twitter](https://twitter.com/fluxfi)
-- [GitHub](https://github.com/fluxfi)
-
+ 
  
 
 **FluxFi: Turn Your Idle Crypto Into Automatic Income** 🚀
