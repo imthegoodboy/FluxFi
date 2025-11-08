@@ -520,7 +520,6 @@ Code is available under MIT License.
 | 📱 [Dashboard](https://fluxfi.app/app) | User dashboard |
 | ❓ [Help](https://fluxfi.app/help) | FAQ & guides |
 | 🎯 [Features](https://fluxfi.app/features) | Feature showcase |
-|  
----
+ 
 
  
