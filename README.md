@@ -525,7 +525,4 @@ Code is available under MIT License.
 
 ---
 
-**Made with ❤️ by the FluxFi Team**
-
-Last Updated: 2024
-Version: 1.0
+ 
