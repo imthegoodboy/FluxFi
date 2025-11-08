@@ -518,8 +518,6 @@ Code is available under MIT License.
 |------|---------|
 | 🌐 [Website](https://fluxfi.app) | Main platform |
 | 📱 [Dashboard](https://fluxfi.app/app) | User dashboard |
-| ❓ [Help](https://fluxfi.app/help) | FAQ & guides |
-| 🎯 [Features](https://fluxfi.app/features) | Feature showcase |
- 
+| 
 
  
